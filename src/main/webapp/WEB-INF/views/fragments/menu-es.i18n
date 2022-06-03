@@ -1,0 +1,81 @@
+# menu-es.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+﻿# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous.user-accounts = Lista cuentas de usuario
+master.menu.anonymous.chirp.list = Lista todos los mensajes
+master.menu.anonymous.item.list = Lista los instrumentos publicadas
+master.menu.anonymous.toolkit.list-all = Lista los kits de herramientas publicados
+
+master.menu.anonymous = Anónimo
+master.menu.anonymous.alvparbor1 = 44053812A: Paradas Borrego, Alvaro
+master.menu.anonymous.pabrodgom5 = 77843513J: Rodríguez Gómez, Pablo
+master.menu.anonymous.marruivaz1 = 47393243H: Ruiz Vázquez, María José
+master.menu.anonymous.josgrarom = 49029435J: Grande Romero, José Antonio
+master.menu.anonymous.juagaroli = 20537348G: García Oliva, Juan
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrador
+master.menu.administrator.administrator-dashboard = Panel de indicadores
+master.menu.administrator.initial-configuration = Configuracion inicial del sistema
+master.menu.administrator.populate-initial = Poblar BD (inicial)
+master.menu.administrator.populate-sample = Poblar BD (ejemplos)
+master.menu.administrator.shut-down = Parar el sistema
+
+
+# master.menu.authenticated ####################################################
+master.menu.authenticated = Autenticado
+
+master.menu.authenticated.user-accounts = Lista cuentas de usuario
+master.menu.authenticated.chirp.list = Lista todos los mensajes 
+master.menu.authenticated.item.list = Lista los instrumentos publicados
+master.menu.authenticated.toolkit.list-all = Lista los kits de herramientas publicados
+master.menu.authenticated.patron.patronage.list = Lista todos los patrocinios
+master.menu.authenticated.announcement.list = Lista  anuncios 
+master.menu.authenticated.money-exchange = Cambio de dinero
+
+
+# master.menu.inventor ####################################################
+
+master.menu.inventor = Inventor
+master.menu.inventor.item.list = Lista mis instrumentos
+master.menu.inventor.toolkit.list = Lista mis kits de herramientas
+master.menu.inventor.patronage.list = Lista mis patrocinios
+master.menu.inventor.chimpum.list = Listar mis chimpums
+
+
+# master.menu.patron ####################################################
+
+master.menu.patron = Patrón
+master.menu.patron.patronage.list = Lista mis patrocinios
+master.menu.patron.dashboard = Mis estadísticas
+
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Cuenta
+master.menu.user-account.general-data = Datos generales
+master.menu.user-account.provider = Datos de proveedor
+master.menu.user-account.become-provider = Hazte proveedor
+master.menu.user-account.consumer = Datos de consumidor
+master.menu.user-account.become-consumer = Hazte consumidor
+master.menu.user-account.inventor = Datos de inventor
+master.menu.user-account.become-inventor= Hazte inventor
+master.menu.user-account.patron = Datos de mecenas
+master.menu.user-account.become-patron= Hazte mecenas
+

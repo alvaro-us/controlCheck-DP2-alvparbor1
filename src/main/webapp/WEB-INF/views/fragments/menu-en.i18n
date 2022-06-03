@@ -1,0 +1,80 @@
+# menu-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.menu #################################################################
+
+master.menu.home = Home
+master.menu.sign-up = Sign up
+master.menu.sign-in = Sign in
+master.menu.sign-out = Sign out
+
+# master.menu.anonymous #######################################################
+master.menu.anonymous = Anonymous
+master.menu.anonymous.user-accounts = List user accounts
+master.menu.anonymous.chirp.list = List all chirps
+master.menu.anonymous.item.list = List published items 
+master.menu.anonymous.toolkit.list-all = List published toolkits
+
+master.menu.anonymous.alvparbor1 = 44053812A: Paradas Borrego, Alvaro
+master.menu.anonymous.pabrodgom5 = 77843513J: Rodríguez Gómez, Pablo
+master.menu.anonymous.marruivaz1 = 47393243H: Ruíz Vázquez, María José
+master.menu.anonymous.josgrarom = 49029435J: Grande Romero, José Antonio
+master.menu.anonymous.juagaroli = 20537348G: García Oliva, Juan
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrator
+master.menu.administrator.administrator-dashboard = Dashboard
+master.menu.administrator.announcement = Create announcement
+master.menu.administrator.initial-configuration = System initial configuration
+master.menu.administrator.populate-initial = Populate DB (initial)
+master.menu.administrator.populate-sample = Populate DB (samples)
+master.menu.administrator.shut-down = Shut down
+
+
+# master.menu.authenticated ####################################################
+
+master.menu.authenticated = Authenticated
+master.menu.authenticated.user-accounts = List user accounts
+master.menu.authenticated.chirp.list = List all chirps
+master.menu.authenticated.item.list = List published items 
+master.menu.authenticated.toolkit.list-all = List published toolkits
+master.menu.authenticated.patron.patronage.list = List all patronages
+master.menu.authenticated.announcement.list = List announcements 
+master.menu.authenticated.money-exchange = Money exchange
+
+
+# master.menu.inventor ####################################################
+
+master.menu.inventor = Inventor
+master.menu.inventor.item.list = List my items
+master.menu.inventor.toolkit.list = List my toolkits
+master.menu.inventor.patronage.list = List my patronages 
+master.menu.inventor.chimpum.list = List my chimpums
+
+
+# master.menu.patron ####################################################
+
+master.menu.patron = Patron
+master.menu.patron.patronage.list = List my patronages
+master.menu.patron.dashboard = My dashboard
+
+# master.menu.user-account ####################################################
+master.menu.user-account = Account
+master.menu.user-account.general-data = General data
+master.menu.user-account.provider = Provider data
+master.menu.user-account.become-provider = Become a provider
+master.menu.user-account.consumer = Consumer data
+master.menu.user-account.become-consumer = Become a consumer
+master.menu.user-account.inventor = Inventor data
+master.menu.user-account.become-inventor = Become an inventor
+master.menu.user-account.patron = Patron data
+master.menu.user-account.become-patron = Become a patron
+

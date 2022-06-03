@@ -1,0 +1,12 @@
+any.item.list.label.name = Name
+any.item.list.label.code = Code  
+any.item.list.label.technology = Technology
+any.item.list.label.description = Description
+any.item.list.label.moreInfo = More info
+any.item.list.label.itemType = Item type
+any.item.list.label.retailPrice = Price  
+any.item.list.label.exchange = Exchanged price
+any.item.list.label.amounts = Quantity
+
+any.item.form.label.confirmation = Submit
+any.item.form.button.create = Create

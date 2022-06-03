@@ -1,0 +1,18 @@
+inventor.patronage-report.list.label.sequenceNumber = Sequence number
+inventor.patronage-report.list.label.creationMoment = Creation moment
+inventor.patronage-report.list.label.moreInfo = More info 
+
+
+inventor.patronage-report.form.label.sequenceNumber = Sequence number
+inventor.patronage-report.form.label.creationMoment = Creation moment
+inventor.patronage-report.form.label.memorandum = Memorandum
+inventor.patronage-report.form.label.moreInfo = More info 
+
+inventor.patronageReport.list.button.create = New Patronage Report
+
+inventor.patronageReport.form.button.create = Create report
+
+inventor.patronageReport.form.label.confirm = Confirm
+inventor.patronageReport.form.error.must-confirm = Must confirm 
+
+inventor.patronageReport.form.error.duplicated = This code already exists

@@ -1,0 +1,10 @@
+recordIndex,name,code,technology,description,itemType,retailPrice,moreInfo
+0,AnimalJS,WID-141-Z,zoo,No description yet,TOOL,"EUR 1,502.00", 
+1,Geographic,ASD-323-G,desc,A complete word geographic,COMPONENT,EUR 100.00, 
+2,MathJS,BHN-251-H,heredia,An useful mathematical component,COMPONENT,GBP 85.00,, 
+3,Painter,AMN-124-R,intel,The best painter for your projects,COMPONENT,EUR 20.00,
+4,Pencil,AMN-123-R,intel,A very special pencil,TOOL,USD 2.00,
+5,Shooter,KLD-446-G,gamingFest,An interesting component for gaming projects,COMPONENT,"EUR 1,500.00",
+6,Umbrella,LNF-327-G,umbrella inc.,No description provided yet,TOOL,USD 210.00,
+
+ 

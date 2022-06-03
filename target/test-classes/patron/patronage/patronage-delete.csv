@@ -1,0 +1,7 @@
+recordIndex,code,legalStuff,budget,startDate,endDate,moreInfo,inventor
+0,AAA-000-A,This is an example of legal stuff,"EUR 1,000.00",2022/10/17 21:00,2023/03/17 21:00,,inventor1
+1,AAA-000-B,This is an example of legal stuff,GBP 23.65,2022/10/17 21:00,2023/03/17 21:00,,inventor2
+2,AAA-000-C,This is an example of legal stuff,"EUR 1,000.00",2022/10/17 21:00,2023/03/17 21:00,,inventor3
+3,AAA-000-D,This is an example of legal stuff,"EUR 1,000.00",2022/10/17 21:00,2023/03/17 21:00,,inventor2
+4,AAA-000-E,This is an example of legal stuff,GBP 23.65,2022/10/17 21:00,2023/03/17 21:00,,inventor3
+5,AAA-000-F,This is an example of legal stuff,GBP 23.65,2022/10/17 21:00,2023/03/17 21:00,,inventor1

@@ -1,0 +1,11 @@
+key,code,title,description,assembly-notes,more-info,draft-mode,key:inventor
+toolkit-01,BMW-456-A,Paint,The best painter for your projects,Very practical,null,false,inventor-01
+toolkit-02,ASD-321-A,Math,A mathematical library,Very practical,null,false,inventor-02
+toolkit-03,AFA-653-D,Zooland,An interesting toolkit based on animals,Very practical,null,false,inventor-01
+toolkit-04,GFS-312-A,Game.Inc,Useful for game development,Very practical,null,false,inventor-02
+toolkit-05,LOP-852-V,Nature,Esto es un borrador,Nada,null,true,inventor-01
+toolkit-06,PAA-234-W,Weather,Weather investigation's propose,Nothing,null,false,inventor-01
+toolkit-07,UUI-852-E,Borrador de coche,Sin descripción,Nothing,null,true,inventor-01
+toolkit-08,SJF-849-A,Borrador de drive,Sin descripción,Nothing,null,true,inventor-01
+toolkit-09,ALA-193-G,Otro borrador,Sin descripción,Nothing,null,true,inventor-02
+toolkit-10,ABA-178-D,Aqua,Sin descripción,Nothing,null,true,inventor-02

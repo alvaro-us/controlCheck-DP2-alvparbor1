@@ -1,0 +1,17 @@
+inventor.quantity.list.label.name = Name
+inventor.quantity.list.label.code = Code
+inventor.quantity.list.label.technology = Technology
+inventor.quantity.list.label.amount = Amount
+
+inventor.quantity.form.label.amount = Amount
+inventor.item.list.label.item = Item
+
+inventor.quantity.form.button.create = Add item
+inventor.quantity.form.button.delete = Delete item
+inventor.quantity.form.button.update = Update item
+
+inventor.quantity.form.error.duplicated = The toolkit already has this item
+inventor.quantity.form.error.amount-of-tool = The amount must be 1 when introducing an item which type is tool
+
+inventor.quantity.no-available-items = There are no available items to be added at the moment
+

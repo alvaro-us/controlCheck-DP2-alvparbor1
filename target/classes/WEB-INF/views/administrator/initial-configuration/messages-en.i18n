@@ -1,0 +1,10 @@
+administrator.initial-configuration.form.label.defaultCurrency = Default currency
+administrator.initial-configuration.form.label.acceptedCurrencies = Accepted currencies
+administrator.initial-configuration.form.label.strongSpamTerms = Strong spam terms
+administrator.initial-configuration.form.label.weakSpamTerms = Weak spam terms
+administrator.initial-configuration.form.label.strongSpamTreshold = Strong spam treshold
+administrator.initial-configuration.label.weakSpamTreshold = Weak spam treshold
+
+administrator.initial-configuration.form.button.update = Update
+
+administrator.initial-configuration.form.error.defaultCurrency = Currency not accepted

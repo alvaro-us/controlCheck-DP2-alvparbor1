@@ -1,0 +1,46 @@
+#COMPONENT
+administrator.dashboard.form.title.components = Components indicators
+administrator.dashboard.form.label.total-number-of-components =  Total number of components
+administrator.dashboard.form.label.average-retailPrice.component = Average retail price of components
+administrator.dashboard.form.label.deviation-retailPrice.component = Deviation retail price of components
+administrator.dashboard.form.label.minimun-retailPrice.component = Minimun retail price of components
+administrator.dashboard.form.label.maximun-retailPrice.component = Maximun retail price of components
+ 
+
+#TOOL
+administrator.dashboard.form.title.tools = Tools indicators
+administrator.dashboard.form.label.total-number-of-tools =  Total number of tools
+administrator.dashboard.form.label.average-retailPrice = Average retail price of tools
+administrator.dashboard.form.label.deviation-retailPrice = Deviation retail price of tools
+administrator.dashboard.form.label.minimun-retailPrice = Minimun retail price of tools
+administrator.dashboard.form.label.maximun-retailPrice = Maximun retail price of tools
+
+#CHIMPUM
+administrator.dashboard.form.label.ratio = Ratio of items with chimpum
+administrator.dashboard.form.label.chimpum.average-budget = Average retail price of chimpums
+administrator.dashboard.form.label.chimpum.deviation-budget = Deviation retail price of chimpums
+administrator.dashboard.form.label.chimpum.minimun-budget = Minimun retail price of chimpums
+administrator.dashboard.form.label.chimpum.maximun-budget = Maximun retail price of chimpums
+
+#PATRONAGE
+administrator.dashboard.form.title.patronages = Patronage indicators
+administrator.patronDashboard.form.title.patronages = Patronage statuses 
+administrator.dashboard.form.label.total-number-of-proposed-patronages =  Total number of proposed patronages
+administrator.dashboard.form.label.total-number-of-accepted-patronages =  Total number of accepted patronages
+administrator.dashboard.form.label.total-number-of-denied-patronages =  Total number of denied patronages
+
+administrator.dashboard.form.label.average-budget-ACCEPTED = Average budget of accepted patronages
+administrator.dashboard.form.label.average-budget-DENIED = Average budget of denied patronages
+administrator.dashboard.form.label.average-budget-PROPOSED = Average budget of proposed patronages
+
+administrator.dashboard.form.label.deviation-budget-ACCEPTED = Deviation budget of accepted patronages
+administrator.dashboard.form.label.deviation-budget-DENIED = Deviation budget of denied patronages
+administrator.dashboard.form.label.deviation-budget-PROPOSED = Deviation budget of proposed patronages
+
+administrator.dashboard.form.label.minimun-budget-ACCEPTED = Minimun budget of accepted patronages
+administrator.dashboard.form.label.minimun-budget-DENIED = Minimun budget of denied patronages
+administrator.dashboard.form.label.minimun-budget-PROPOSED = Minimun budget of proposed patronages
+
+administrator.dashboard.form.label.maximun-budget-ACCEPTED = Maximun budget of accepted patronages
+administrator.dashboard.form.label.maximun-budget-DENIED = Maximun budget of denied patronages
+administrator.dashboard.form.label.maximun-budget-PROPOSED = Maximun budget of proposed patronages

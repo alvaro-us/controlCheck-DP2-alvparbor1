@@ -1,0 +1,19 @@
+any.chirp.list.title = lista de mensajes
+any.chirp.list.label.creationMoment = Momento 
+any.chirp.list.label.title = Titulo
+any.chirp.list.label.author = Autor
+any.chirp.list.label.body = Cuerpo
+any.chirp.list.label.email = Email 
+
+any.chirp.list.button.create = Crear Chirp
+
+any.chirp.form.title = Título
+any.chirp.form.label.author = Autor
+any.chirp.form.label.body = Cuerpo
+any.chirp.form.label.email = Correo
+
+any.chirp.form.button.create = Crear Chirp
+
+any.chirp.form.label.confirm = Confirmar 
+any.chirp.form.error.must-confirm = Se debe confirmar 
+any.chirp.form.error.spam= Este texto sobrepasa el umbral de spam permitido

@@ -1,0 +1,26 @@
+inventor.item.list.label.name = Nombre
+inventor.item.list.label.code = Código  
+inventor.item.list.label.technology = Tecnología
+inventor.item.list.label.description = Descripción
+inventor.item.list.label.moreInfo = Más info
+inventor.item.list.label.itemType = Tipo de instrumento 
+inventor.item.list.label.retailPrice = Precio 
+inventor.item.list.label.exchange = Precio convertido 
+inventor.item.list.label.amounts = Cantidad
+inventor.item.list.label.draftMode = Borrador
+
+inventor.item.list.button.create = Crear
+inventor.item.form.button.update = Actualizar
+inventor.item.form.button.delete = Borrar
+inventor.item.form.button.publish = Publicar
+
+inventor.item.form.label.confirmation = Enviar
+inventor.item.form.button.create = Crear
+
+inventor.item.form.error.invalid-retailPrice = La divisa introducida no está en el sistema
+inventor.item.form.error.tool-retailPrice = La cantidad no puede ser negativa en herramientas
+inventor.item.form.error.component-retailPrice = La cantidad no puede ser negativa o zero en componentes
+inventor.item.form.error.duplicated = Ya existe un instrumento con ese código
+
+inventor.item.form.button.create-chimpum = Crear chimpum
+inventor.item.form.button.show-chimpum = Mostrar chimpum

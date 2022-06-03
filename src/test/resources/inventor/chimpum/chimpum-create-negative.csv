@@ -1,0 +1,4 @@
+recordIndex,pattern,title,description,budget,startDate,endDate,moreInfo
+0,AAA,,Description test 1,"EUR 100,000.00",2021/10/13 14:00,2021/10/20 14:00,
+1,BBB,Title test 2,,"EUR 100,000.00",2021/10/13 14:00,2021/10/20 14:00,
+2,,Title test 3,Description test 3,"EUR 100,000.00",2021/10/13 14:00,2021/10/20 14:00,

@@ -1,0 +1,7 @@
+recordIndex,name,code,technology,description,itemType,retailPrice,draftMode,moreInfo
+0,AA1,SSS-141-Z,zoo,No description yet,TOOL,"EUR 1,502.00",true,
+1,AA2,CAR-521-G,desc,No description provided yet,COMPONENT,USD 2.00,true,
+2,AA3,PEN-212-G,desc,No description provided yet,TOOL,EUR 10.00,true,
+3,AA4,SWI-124-R,intel,The best switcher for your projects,COMPONENT,EUR 20.00,true,
+4,AA5,MOU-123-R,intel,A very special mouse,TOOL,GBP 2.00,true,
+5,AA5,GRA-327-G,umbrella inc.,No description provided yet,COMPONENT,USD 210.00,true,

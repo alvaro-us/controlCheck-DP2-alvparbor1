@@ -1,0 +1,10 @@
+recordIndex,name,code,technology,description,itemType,retailPrice,moreInfo
+0,Error in code,S-1-Z,zoo,No description yet,TOOL,"EUR 1,502.00",
+1,Error in description null,CAR-521-G,desc,,COMPONENT,USD 2.00,
+2,Error in currency of price,PEN-212-G,desc,No description provided yet,TOOL,WWW 10.00,
+3,Error in duplicated code,WID-141-Z,intel,The best switcher for your projects,COMPONENT,EUR 20.00,
+4,Error in negative price,MOU-123-R,intel,A very special mouse,TOOL,GBP -2.00,
+5,Error in price null,GRA-327-G,umbrella inc.,No description provided yet,COMPONENT,,
+6,sex,GRA-327-G,umbrella inc.,No description provided yet,COMPONENT,EUR 20.00,
+7,This is a test,GRA-327-G,sex,No description provided yet,COMPONENT,EUR 20.00,
+8,This is a test,GRA-327-G,umbrella inc.,sex,COMPONENT,EUR 20.00,

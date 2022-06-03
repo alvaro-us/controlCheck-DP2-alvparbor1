@@ -1,0 +1,10 @@
+administrator.initial-configuration.form.label.defaultCurrency = Moneda por defecto
+administrator.initial-configuration.form.label.acceptedCurrencies = Monedas aceptadas
+administrator.initial-configuration.form.label.strongSpamTerms = Términos de spam fuertes
+administrator.initial-configuration.form.label.weakSpamTerms = Términos de spam débiles
+administrator.initial-configuration.form.label.strongSpamTreshold = Umbral de spam fuerte
+administrator.initial-configuration.label.weakSpamTreshold = Umbral de spam débil
+
+administrator.initialConfiguration.form.button.update = Actualizar
+
+administrator.initial-configuration.form.error.defaultCurrency = Moneda no aceptada

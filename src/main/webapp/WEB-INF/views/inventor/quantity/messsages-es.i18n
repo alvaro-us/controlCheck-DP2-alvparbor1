@@ -1,0 +1,15 @@
+inventor.quantity.list.label.name = Nombre
+inventor.quantity.list.label.code = Código
+inventor.quantity.list.label.technology = Tecnología
+inventor.quantity.list.label.amount = Cantidad
+
+inventor.quantity.form.label.amount = Cantidad
+inventor.item.list.label.item = Instrumento
+
+inventor.quantity.form.button.create = Añadir instrumento
+inventor.quantity.form.button.delete = Borrar instrumento
+inventor.quantity.form.button.update = Actualizar instrumento 
+inventor.quantity.form.error.duplicated = El kit de herramientas ya posee este instrumento
+inventor.quantity.form.error.amount-of-tool = La cantidad ha de ser 1 al introducir cuando el tipo de instrumento es herramienta
+
+inventor.quantity.no-available-items = No hay instrumentos disponibles para añadir en este momento

@@ -1,0 +1,50 @@
+#COMPONENT
+administrator.dashboard.form.title.components = Estadísticas de componentes
+administrator.dashboard.form.label.total-number-of-components =  Número total de componentes
+administrator.dashboard.form.label.average-retailPrice.component = Promedio del precio de componentes
+administrator.dashboard.form.label.deviation-retailPrice.component = Desviación del precio de componentes
+administrator.dashboard.form.label.minimun-retailPrice.component = Precio mínimo de componentes
+administrator.dashboard.form.label.maximun-retailPrice.component = Precio máximo de componentes
+
+ 
+
+#TOOL
+administrator.dashboard.form.title.tools = Estadísticas de herramientas
+administrator.dashboard.form.label.total-number-of-tools =  Número total de herramientas
+administrator.dashboard.form.label.average-retailPrice = Promedio del precio de herramientas
+administrator.dashboard.form.label.deviation-retailPrice = Desviación del precio de herramientas
+administrator.dashboard.form.label.minimun-retailPrice = Precio mínimo de herramientas
+administrator.dashboard.form.label.maximun-retailPrice = Precio máximo de herramientas
+
+#CHIMPUM
+administrator.dashboard.form.label.ratio = Ratio de items con chimpum
+administrator.dashboard.form.label.chimpum.average-budget = Promedio del precio de chimpums
+administrator.dashboard.form.label.chimpum.deviation-budget = Desviación del precio de chimpums
+administrator.dashboard.form.label.chimpum.minimun-budget = Precio mínimo de chimpums
+administrator.dashboard.form.label.chimpum.maximun-budget = Precio máximo de chimpums
+
+
+
+#PATRONAGE
+administrator.dashboard.form.title.patronages = Estadísticas de patronage
+administrator.patronDashboard.form.title.patronages = Patronage statuses 
+administrator.dashboard.form.label.total-number-of-proposed-patronages =  Número total de patrocionios propuestos
+administrator.dashboard.form.label.total-number-of-accepted-patronages =   Número total de patrocionios aceptados
+administrator.dashboard.form.label.total-number-of-denied-patronages =   Número total de patrocionios rechazados
+
+administrator.dashboard.form.label.average-budget-ACCEPTED = Promedio del presupuesto de patrocinios aceptados
+administrator.dashboard.form.label.average-budget-DENIED =  Promedio del presupuesto de patrocinios rechazados
+administrator.dashboard.form.label.average-budget-PROPOSED =  Promedio del presupuesto de patrocinios propuestos
+
+administrator.dashboard.form.label.deviation-budget-ACCEPTED = Desviación del presupuesto de patrocinios aceptados
+administrator.dashboard.form.label.deviation-budget-DENIED = Desviación del presupuesto de patrocinios rechazados
+administrator.dashboard.form.label.deviation-budget-PROPOSED = Desviación del presupuesto de patrocinios denegados
+
+administrator.dashboard.form.label.minimun-budget-ACCEPTED = Mínimo presupuesto de patrocinios aceptados
+administrator.dashboard.form.label.minimun-budget-DENIED = Mínimo presupuesto de patrocinios rechazados
+administrator.dashboard.form.label.minimun-budget-PROPOSED = Mínimo presupuesto de patrocinios propuesto
+
+administrator.dashboard.form.label.maximun-budget-ACCEPTED = Máximo presupuesto de patrocinios aceptados
+administrator.dashboard.form.label.maximun-budget-DENIED = Máximo presupuesto de patrocinios rechazados
+administrator.dashboard.form.label.maximun-budget-PROPOSED = Máximo presupuesto de patrocinios propuestos
+

@@ -1,0 +1,43 @@
+patron.patronage.list.label.status = Status
+patron.patronage.list.label.code = Code
+patron.patronage.list.label.legalStuff = Legal stuff
+patron.patronage.list.label.budget = Budget
+patron.patronage.list.label.creationDate = Creation date
+patron.patronage.list.label.startDate = Start date
+patron.patronage.list.label.endDate = End date
+patron.patronage.list.label.moreInfo = More info
+patron.patronage.list.label.published = Published
+
+patron.patronage.list.button.create = Create
+
+patron.patronage.form.label.status = Status
+patron.patronage.form.label.code = Code
+patron.patronage.form.label.legalStuff = Legal stuff
+patron.patronage.form.label.budget = Budget
+patron.patronage.form.label.creationDate = Creation date
+patron.patronage.form.label.startDate = Start date
+patron.patronage.form.label.endDate = End date
+patron.patronage.form.label.moreInfo = More info
+
+
+patron.patronage.form.label.inventors = Inventor
+patron.patronage.form.label.exchange = Exchanged price
+
+
+patron.patronage.form.button.patron = Inventor
+patron.patronage.form.button.patronageReport = Report 
+
+patron.patronage.form.button.update = Update
+patron.patronage.form.button.delete = Delete
+patron.patronage.form.button.publish = Publish
+patron.patronage.form.button.create = Create
+
+patron.patronage.form.error.duplicated = This code already exists
+patron.patronage.form.error.startDate = The period of time must be at least one month after the patronage is created
+patron.patronage.form.error.endDate = The period of time must be at least one month after the patronage is started
+patron.patronage.form.error.currency = This currency isn't valid
+patron.patronage.form.error.amount = Has to be greater than 0
+
+patron.patronage.form.label.status.proposed = PROPOSED
+patron.patronage.form.label.status.accepted = ACCEPTED
+patron.patronage.form.label.status.denied = DENIED

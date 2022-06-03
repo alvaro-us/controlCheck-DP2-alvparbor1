@@ -1,0 +1,19 @@
+inventor.toolkit.list.label.code = Código
+inventor.toolkit.list.label.title = Título
+inventor.toolkit.list.label.description = Descripción
+inventor.toolkit.list.label.assemblyNotes = Notas de montaje
+inventor.toolkit.list.label.moreInfo = Más info 
+inventor.toolkit.list.label.retailPrice = Precio
+inventor.toolkit.list.label.draftMode = Borrador
+
+inventor.toolkit.list.button.create = Crear
+
+inventor.toolkit.form.button.items = Ver sus instrumentos
+inventor.quantity.form.button.create-quantity = Añadir instrumento
+inventor.toolkit.form.button.create = Crear
+inventor.toolkit.form.button.update = Actualizar
+inventor.toolkit.form.button.delete = Borrar
+inventor.toolkit.form.button.publish = Publicar
+
+inventor.toolkit.form.error.duplicated = Ya existe un kit de herramientas con ese código
+inventor.toolkit.form.error.no-items = Debe de tener asociado al menos un instrumento para publicarse

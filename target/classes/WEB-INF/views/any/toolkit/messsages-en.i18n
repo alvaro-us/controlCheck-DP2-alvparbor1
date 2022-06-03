@@ -1,0 +1,11 @@
+
+any.toolkit.list.label.code = Code
+any.toolkit.list.label.title = Title
+any.toolkit.list.label.description = Description
+any.toolkit.list.label.assemblyNotes = Assembly Notes
+any.toolkit.list.label.moreInfo =  More info
+any.toolkit.list.label.retailPrice = Price 
+any.toolkit.form.button.items = List its items
+
+any.toolkit.form.label.confirmation = Submit
+any.toolkit.form.button.create = Create

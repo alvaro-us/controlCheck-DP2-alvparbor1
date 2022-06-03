@@ -1,0 +1,28 @@
+inventor.patronage.list.label.status = Estado
+inventor.patronage.list.label.code = Código
+inventor.patronage.list.label.legalStuff = Cuestiones legales
+inventor.patronage.list.label.budget = Presupuesto
+inventor.patronage.list.label.creationDate = Fecha de creación
+inventor.patronage.list.label.startDate = Fecha de inicio
+inventor.patronage.list.label.endDate = Fecha de fin
+inventor.patronage.list.label.moreInfo = Mas información
+patron.patronage.list.label.published = Publicado
+
+inventor.patronage.form.label.status = Estado
+inventor.patronage.form.label.code = Código
+inventor.patronage.form.label.legalStuff = Cuestiones legales
+inventor.patronage.form.label.budget = Presupuesto
+inventor.patronage.form.label.creationDate = Fecha de creación
+inventor.patronage.form.label.startDate = Fecha de inicio
+inventor.patronage.form.label.endDate = Fecha de fin
+inventor.patronage.form.label.moreInfo = Mas información
+inventor.patronage.form.label.exchange = Precio convertido
+
+inventor.patronage.form.button.patron = Patrocinador 
+inventor.patronage.form.button.patronageReport = Reportes 
+
+inventor.patronage.form.button.update = Actualizar
+
+inventor.patronage.form.label.status.proposed = PROPUESTO
+inventor.patronage.form.label.status.accepted = ACEPTADO
+inventor.patronage.form.label.status.denied = DENEGADO

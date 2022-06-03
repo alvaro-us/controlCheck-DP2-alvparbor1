@@ -1,0 +1,27 @@
+inventor.item.list.label.name = Name
+inventor.item.list.label.code = Code  
+inventor.item.list.label.technology = Technology
+inventor.item.list.label.description = Description
+inventor.item.list.label.moreInfo = More info
+inventor.item.list.label.itemType = Item type
+inventor.item.list.label.retailPrice = Price 
+inventor.item.list.label.exchange = Exchanged price
+inventor.item.list.label.amounts = Quantity
+inventor.item.list.label.draftMode = Draft mode
+
+
+inventor.item.list.button.create = Create
+inventor.item.form.button.update = Update
+inventor.item.form.button.delete = Delete
+inventor.item.form.button.publish = Publish
+
+inventor.item.form.label.confirmation = Submit
+inventor.item.form.button.create = Create
+
+inventor.item.form.error.invalid-retailPrice = The introduced currency is not in the system
+inventor.item.form.error.tool-retailPrice = The amount cannot be negative in tools
+inventor.item.form.error.component-retailPrice = The amount cannot be negative or zero in components
+inventor.item.form.error.duplicated = It already exists another item with the same code
+
+inventor.item.form.button.create-chimpum = Create chimpum
+inventor.item.form.button.show-chimpum = Show chimpum

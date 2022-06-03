@@ -1,0 +1,20 @@
+patron.dashboard.form.label.total-number-of-proposed-patronages =  Número total de patrocinios propuestos
+patron.dashboard.form.label.total-number-of-accepted-patronages  =  Número total de patrocinios aceptados
+patron.dashboard.form.label.total-number-of-denied-patronages=  Número total de patrocinios denegados
+
+
+patron.dashboard.form.label.average-budget-ACCEPTED = Presupuesto medio de patrocinios aceptados
+patron.dashboard.form.label.average-budget-DENIED = Presupuesto medio de patrocinios denegados
+patron.dashboard.form.label.average-budget-PROPOSED = Presupuesto medio de patrocinios propuestos
+
+patron.dashboard.form.label.deviation-budget-ACCEPTED = Presupuesto de desviación de patrocinios aceptados
+patron.dashboard.form.label.deviation-budget-DENIED = Presupuesto de desviación de patrocinios denegados
+patron.dashboard.form.label.deviation-budget-PROPOSED = Presupuesto de desviación de patrocinios propuestos
+
+patron.dashboard.form.label.minimun-budget-ACCEPTED = Presupuesto mínimo de patrocinios aceptados
+patron.dashboard.form.label.minimun-budget-DENIED = Presupuesto mínimo de patrocinios denegados
+patron.dashboard.form.label.minimun-budget-PROPOSED = Presupuesto mínimo de patrocinios propuestos
+
+patron.dashboard.form.label.maximun-budget-ACCEPTED = Presupuesto máximo de patrocinios aceptados
+patron.dashboard.form.label.maximun-budget-DENIED = Presupuesto máximo de patrocinios denegados
+patron.dashboard.form.label.maximun-budget-PROPOSED = Presupuesto máximo de patrocinios propuestos

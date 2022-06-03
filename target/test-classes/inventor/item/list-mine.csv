@@ -1,0 +1,7 @@
+recordIndex,name,code,technology,description,itemType,retailPrice,draftMode,moreInfo
+0,AnimalJS,WID-141-Z,zoo,No description yet,TOOL,"EUR 1,502.00",false,
+1,Flower,USH-521-G,desc,No description provided yet,TOOL,EUR 10.00,true,
+2,Otro borrador de tool,HHH-212-G,desc,No description provided yet,TOOL,EUR 10.00,true,
+3,Painter,AMN-124-R,intel,The best painter for your projects,COMPONENT,EUR 20.00,false,
+4,Pencil,AMN-123-R,intel,A very special pencil,TOOL,USD 2.00,false,
+5,Umbrella,LNF-327-G,umbrella inc.,No description provided yet,TOOL,USD 210.00,false,

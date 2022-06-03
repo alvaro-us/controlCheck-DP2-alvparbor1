@@ -1,0 +1,15 @@
+           ,ggg,                                            _,gggggg,_                         
+          dP""8I                                          ,d8P""d8P"Y8b,                       
+         dP   88                                         ,d8'   Y8   "8b,dP                    
+        dP    88                                         d8'    `Ybaaad88P'                    
+       ,8'    88                                         8P       `""""Y8                      
+       d88888888     ,gggg,   ,ggg,,ggg,,ggg,    ,ggg,   8b            d8 ,ggg,,ggg,    ,ggg,  
+ __   ,8"     88    dP"  "Yb ,8" "8P" "8P" "8,  i8" "8i  Y8,          ,8P,8" "8P" "8,  i8" "8i 
+dP"  ,8P      Y8   i8'       I8   8I   8I   8I  I8, ,8I  `Y8,        ,8P'I8   8I   8I  I8, ,8I 
+Yb,_,dP       `8b,,d8,_    _,dP   8I   8I   Yb, `YbadP'   `Y8b,,__,,d8P',dP   8I   Yb, `YbadP' 
+ "Y8P"         `Y8P""Y8888PP8P'   8I   8I   `Y8888P"Y888    `"Y8888P"'  8P'   8I   `Y8888P"Y888                     
+
+Application:          ${acme.application-name}
+Application endpoint: http://localhost:${server.port}${server.servlet.contextPath}
+Database endpoint:    ${spring.datasource.url}
+Powered by:           Spring Boot ${spring-boot.version}, Acme Framework ${acme.version}

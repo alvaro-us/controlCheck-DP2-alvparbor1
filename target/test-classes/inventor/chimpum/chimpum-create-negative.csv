@@ -1,0 +1,12 @@
+recordIndex,pattern,title,description,budget,startDate,endDate,moreInfo
+0,ASD,,AThis is a test,"EUR 1,000.00",2022/07/20 21:00,2022/07/27 21:00,
+1,FGD,AThis is a test,,"EUR 1,000.00",2022/07/20 21:00,2022/07/27 21:00,
+2,SDE,AThis is a test,AThis is a test,,2022/07/20 21:00,2022/07/27 21:00,
+3,FGV,AThis is a test,AThis is a test,"EUR 1,000.00",,2022/07/27 21:00,
+4,CDS,AThis is a test,AThis is a test,"EUR 1,000.00",2022/07/20 21:00,,
+5,DFG,AThis is a test,AThis is a test,"YEN 1,000.00",2022/07/20 21:00,2022/07/27 21:00,
+6,GBH,AThis is a test,AThis is a test,"EUR 1,000.00",2022/02/20 21:00,2022/07/27 21:00,
+7,FCF,AThis is a test,AThis is a test,"EUR 1,000.00",2022/07/20 21:00,2022/07/24 21:00,
+8,DSX,sex,AThis is a test,"EUR 1,000.00",2022/07/20 21:00,2022/07/27 21:00,
+9,NJK,AThis is a test,sex,"EUR 1,000.00",2022/07/20 21:00,2022/07/27 21:00,
+10,,AThis is a test,AThis is a test,"EUR 1,000.00",2022/07/20 21:00,2022/07/27 21:00,
